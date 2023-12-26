@@ -22,7 +22,7 @@
         android:id="@+id/tV"
         android:layout_width="337dp"
         android:layout_height="136dp"
-        android:text="TextView"
+        android:text=""
         android:textSize="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
